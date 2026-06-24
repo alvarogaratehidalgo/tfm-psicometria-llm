@@ -1,0 +1,13 @@
+pandas
+numpy
+torch
+transformers
+datasets
+scikit-learn
+scipy
+groq
+google-genai
+cohere
+tqdm
+matplotlib
+seaborn
